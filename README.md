@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning from the ground up
 - 🌱 I’m currently learning from the very beginnng
 - 💞️ I’m looking to collaborate on any beginner level things
-- 📫 yiu can reach me on here if there is a messaging system or tag me if therw is that capability
+- 📫 You can reach me on here if there is a messaging system or tag me if there is the capability
 
 <!---
 Xxiomara/Xxiomara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
